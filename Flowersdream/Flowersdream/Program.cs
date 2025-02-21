@@ -22,5 +22,10 @@
             Console.WriteLine("Beeing a Human must be nice too sometimes.");
         }
     }
+
+    static void Answer()
+    {
+        Console.WriteLine("My hair is blue");
+    }
     
 }
